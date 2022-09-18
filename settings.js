@@ -41,8 +41,12 @@ global.ownernomerr = "+6285804081500" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.packname = '© Botgaluh' //sticker wm ubah
-global.author = 'Di Buat Oleh Galuh' //sticker wm ganti nama kalian
+global.packname = '© Hai puki' //sticker wm ubah
+global.author = 'jangan lupa donasi ya
+
+
+𝔊𝔞𝔩𝔲𝔥𝔟𝔬𝔱_𝔪𝔡 𝔠𝔬𝔪𝔢𝔩🎈
+whatsapp bot wa.me/6281363484604' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 
