@@ -42,8 +42,7 @@ global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder i
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.packname = '© Hai puki' //sticker wm ubah
-global.author = 'jangan lupa donasi ya 
-𝔊𝔞𝔩𝔲𝔥𝔟𝔬𝔱_𝔪𝔡 𝔠𝔬𝔪𝔢𝔩' //sticker wm ganti nama kalian
+global.author = 'jangan lupa donasi ya              𝔊𝔞𝔩𝔲𝔥𝔟𝔬𝔱_𝔪𝔡 𝔠𝔬𝔪𝔢𝔩' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 
